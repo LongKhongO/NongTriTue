@@ -1,0 +1,9 @@
+{
+  "name": "Nông Trí Tuệ",
+  "description": "Ứng dụng AI hỗ trợ nông nghiệp toàn diện: nhận diện cây trồng, chẩn đoán bệnh, và cộng đồng nông dân.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
